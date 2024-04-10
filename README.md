@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Researcher specialized in foresty and agriculture sectors using Ml.
 
 Here are some ideas to get you started:
