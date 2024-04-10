@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**nilar29/nilar29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Researcher specialized in foresty and agriculture sectors using Ml.
 
 Here are some ideas to get you started:
 
